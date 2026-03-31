@@ -7,6 +7,5 @@ and diving deep into AI agents & automation.
 I don't just learn tech, I build with it.
 
 🔨 Latest: **Bittle-AI** — an AI-powered quiz platform using Groq API  
-🎯 Currently: Contributing to open source · Targeting ESoC 2026  
 ⚡ Stack: React / Next.js / Node.js / Python / MongoDB  
 🤝 Open to: Internships · Freelance · Open source collabs

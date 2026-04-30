@@ -6,6 +6,4 @@ Full stack developer building with **React · Next.js · Node.js · MongoDB** �
 and diving deep into AI agents & automation.
 I don't just learn tech, I build with it.
 
-🔨 Latest: **Bittle-AI** — an AI-powered quiz platform using Groq API  
-⚡ Stack: React / Next.js / Node.js / Python / MongoDB  
 
